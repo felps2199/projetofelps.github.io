@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+
+
+body{
+    background-color: #8B5F4A;
+}
+
+p{
+    position: absolute;
+    right: 9%;
+    top: 30%;
+    font-size: 30px;
+    font-family: 'Klee One', cursive;
+    color: white;
+}
+h1{
+    position: absolute;
+    top: 17%;
+    right: 15%;
+    font-family: 'Kumar One', cursive;
+    color: #4E2F20;
+    text-align: center;
+}
+.retangulo{
+    position: absolute;
+    top: 21%;
+    left: 8.3%;
+}
+
+
+.logo{
+    position: absolute;
+    bottom: 35%;
+    right: 43%;
+}
+img{
+    position: absolute;
+    top: 25%;
+    left: 10%;  
+}
+h2{
+    position: absolute;
+    bottom: 10%;
+    left: 14%;
+    color: white;
+    font-size: 40px;
+    font-family: 'Klee One', cursive;   
+}
+.retangulo2{
+    position: absolute;
+    right: 50%;
+    bottom: 8%;
+}
+.ret{
+    position: absolute;
+    right: 20%;
+    top: 91%;
+    color: aliceblue;
+}
