@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumar+One&display=swap');
+body{
+    background-color: #8B5F4A;
+}
+p{
+    font-size: 40px;
+    font-family:'Kumar One', cursive;
+    color: #4E2F20;
+    margin-top: 4%;
+    margin-left: 50%;
+}
+.texto1{
+    font-family: 'Klee One', cursive;
+    color: #fff;
+    font-size: 23px;
+    margin-right: 0%;
+    margin-top: -3%;
+}
+.logo{
+    margin-left: 65%;
+    margin-top: 5%;
+}
+.retangulo1{
+    margin-top: -25%;
+    margin-left: 10%;
+}
+.fotocandy{
+    margin-top: -37%;
+    margin-left: 13%;
+}
+.preço{
+    font-family: 'Klee One', cursive;
+    margin-top: -2%;
+    margin-left: 20%;
+    color: #fff;
+
+}
+.retangulo2{
+    margin-left: 58%;
+    margin-top: -7%;
+}
+.texto2{
+    font-family: 'Klee One', cursive;
+    color: #fff;
+    font-size: 25px;
+    margin-left: 69%;
+    margin-top: -6%;
+}
+.texto3{
+    font-family: 'Klee One', cursive;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 73%;
+    margin-top: -2%;
+}

@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
+p{
+    font-family: 'kumar one', cursive;
+}
+body{
+    background: #8B5F4A;
+}
+p{
+    font-size: 40px;
+    color: #fff;  
+}
+.img1{
+    position: absolute;
+    margin: 65%;
+    margin-top: auto;
+    display: block;
+}
+.img2{
+    position: absolute;
+    margin: 35%;
+    margin-top: auto;
+    top: 16%;    
+}
+.img3{
+    position: absolute;
+    margin: 5%;
+    margin-top: auto;
+}
+h4{
+    font-family: 'kumar one', cursive;
+    color: #fff;
+    font-size: 25px;
+    position: absolute;
+    margin: 11%;
+    margin-top: 5%;
+}
+h3{
+    font-family: 'kumar one', cursive;
+    color: #fff;
+    font-size: 25px;
+    position: absolute;
+    margin: 42%;
+    margin-top: 5%;
+}
+h6{
+    font-family: 'kumar one', cursive;
+    color: #fff;
+    font-size: 22px;
+    position: absolute;
+    left: 72%;
+}
+.salles{
+   font-family: 'IM Feel English', serif;
+   color: #fff;
+   font-size: 20px;
+   position: absolute;
+   bottom: 1%;
+   left: 46%;
+}
+.siga{
+    font-family: 'IM Feel English', serif;
+   color: #fff;
+   font-size: 60px;
+   margin-top: 42%;
+   margin-left: 41%;   
+}
+.veja{
+    font-family: 'IM Feel English', serif;
+   font-size: 20px;
+   margin-top: -3%;
+   margin-left: 26%; 
+   color: #fff;
+}
