@@ -5,7 +5,7 @@ body{
 }
 .fotocandy{
     position: absolute;
-    left: 16%;
+    left: 5%;
 }
 
 h1{
@@ -24,7 +24,7 @@ h1{
 .candycake{
     position: absolute;
     top: 10%;
-    right: 66%;
+    right: 64%;
 }
 .candy{
     font-family: 'Klee One', cursive;
@@ -84,7 +84,7 @@ h1{
 }
 .imgchoco{
     position: absolute;
-    top: 76%;
+    top: 78%;
     right: 63%;
 }
 .chocolate{
@@ -96,8 +96,8 @@ h1{
 }
 .imgtriple{
     position: absolute;
-    top: 76%;
-    left: 39%;
+    top: 78%;
+    left: 38%;
 }
 .triple{
     position: absolute;
@@ -108,8 +108,8 @@ h1{
 }
 .imgcoracao{
     position: absolute;
-    top: 76%;
-    left: 62%;
+    top: 78%;
+    left: 63%;
 }
 .coracao{
     position: absolute;
