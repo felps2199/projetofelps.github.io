@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumar+One&family=MonteCarlo&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+
+  h1{
+    font-family: 'Kumar one', cursive;
+  position: absolute; left: 22%;
+  top:10%;
+  font-size: 100px;
+  color: #4e2f20;
+  
+  }
+
+  .amarelo{
+   position: absolute;
+   left: 16%;
+   top: 10%;
+  }
+
+  .yellow{
+    position:absolute;
+    left: 20%;
+    top: 40%;
+  }
+  
+  .brigadeiro{
+    position: absolute;
+    left: 63%;
+    top: 20%;
+  }
+
+  .torta{
+    position: absolute;
+    left: 63%;
+    top: 50%;
+  }
+
+  .docinhos{
+    position: absolute;
+    left: 63%;
+    top: 80%;
+  }
+
+  .branco{
+    position: absolute;
+    top: 110%;
+    left: 33%;
+  }
+
+  p{
+    font-family: 'Kumar one', cursive;
+    position: absolute;
+    top: 41%;
+    left: 22%;
+    font-size: 25px;
+    color: #8b5f4a;
+  }
+
+  h6{
+    font-family: 'Kumar one', cursive;
+    position: absolute;
+    top: 63%;
+  left:20%;
+  font-size: 25px;
+    color: #4e2f20;
+  }
+  
+  h4{
+    font-family: 'Klee one', cursive;
+    position: absolute;
+    top: 107%;
+    left: 38%;
+    font-size: 25px;
+  }
+
+  h5{
+    position: absolute;
+    font-family: 'Kumar one';
+    top:29%;
+    left:22%;
+    font-size: 18px;
+    color:#4e2f20ba;
+  }
