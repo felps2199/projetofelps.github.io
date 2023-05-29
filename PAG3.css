@@ -59,7 +59,7 @@
   h6{
     font-family: 'Kumar one', cursive;
     position: absolute;
-    top: 85%;
+    top: 100%;
   left:20%;
   font-size: 25px;
     color: #4e2f20;
@@ -68,7 +68,7 @@
   h4{
     font-family: 'Klee one', cursive;
     position: absolute;
-    top: 140%;
+    top: 110%;
     left: 38%;
     font-size: 25px;
   }
