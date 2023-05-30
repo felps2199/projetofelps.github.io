@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário em HTML5</title>
+    <style type="text/css">
+body{   
+background: #8B5F4A;
+}
+main{
+ background: #FFF;
+ width: 70%;
+ margin: 0 auto;
+ padding: 20px;
+ display: block;
+}
+label{
+display: block;
+margin: top 15px;
+}
+.full{ width: 100%;}
+.altura{height: 300px;}
+</style>
+<head>
+<body>
+    <main>
+      <form method="get" action="envia.php">
+       <label for="Nome">Nome Completo:</label>
+       <input class="full" type="text" id="nome" name="nome" placeholder="Seu nome ..." required>
+       <br>
+       <label form="CPF">CPF:</label>
+       <input class="full" type="text" id="cpf"required>
+       <br>
+       <label for="email">Email:</label>
+       <input class="full" type="email" id="email" name="email"required>
+       <br>
+       <label for="senha1">Crie a senha:</label>
+       <input class="full" type="password" id="senha1" required maxlength="10">
+       <br>
+       <label for="senha2">Repita a senha:</label>
+       <input class="full" type="password" id="senha2" name="senha2"  required maxlength="10">
+       <br>
+       <label for="mensagem">Porque você deseja participar do Club vip?:</label>
+       <textarea class="full altura" id="mensagem" name="mensagem" placeholder="Digite sua mensagem..."></textarea>
+       <input type="submit" value="Cadastrar">
+       <input type="reset" value="Limpar">
+    </form>
+</main>
+</body>
+</head>
+</html>
