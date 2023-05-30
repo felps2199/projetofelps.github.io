@@ -5,7 +5,7 @@
   h1{
     font-family: 'Kumar one', cursive;
   position: absolute; left: 22%;
-  top:7%;
+  top:10%;
   font-size: 100px;
   color: #4e2f20;
   
@@ -25,25 +25,25 @@
   
   .brigadeiro{
     position: absolute;
-    left: 68%;
+    left: 63%;
     top: 20%;
   }
 
   .torta{
     position: absolute;
-    left: 68%;
+    left: 63%;
     top: 50%;
   }
 
   .docinhos{
     position: absolute;
-    left: 68%;
+    left: 63%;
     top: 80%;
   }
 
   .branco{
     position: absolute;
-    top: 135%;
+    top: 110%;
     left: 33%;
   }
 
@@ -59,7 +59,7 @@
   h6{
     font-family: 'Kumar one', cursive;
     position: absolute;
-    top: 70%;
+    top: 63%;
   left:20%;
   font-size: 25px;
     color: #4e2f20;
@@ -68,8 +68,8 @@
   h4{
     font-family: 'Klee one', cursive;
     position: absolute;
-    top: 132%;
-    left: 40%;
+    top: 107%;
+    left: 38%;
     font-size: 25px;
   }
 
