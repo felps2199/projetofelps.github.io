@@ -109,7 +109,7 @@ height: 24px;
 
 footer {
     position: absolute;
-    margin-top: 500px;
+    margin: 500px;
     bottom: 0%;
     background-color: #FBE0A9;
     color: #8B5F4A;  
