@@ -108,8 +108,8 @@ height: 24px;
 }
 
 footer {
-    position: absolute;
-    margin: 500px;
+    position: relative;
+    margin-top: 500px;
     bottom: 0%;
     background-color: #FBE0A9;
     color: #8B5F4A;  
