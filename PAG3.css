@@ -43,7 +43,7 @@
 
   .branco{
     position: absolute;
-    top: 110%;
+    top: 125%;
     left: 33%;
   }
 
@@ -59,7 +59,7 @@
   h6{
     font-family: 'Kumar one', cursive;
     position: absolute;
-    top: 85%;
+    top: 76%;
   left:20%;
   font-size: 25px;
     color: #4e2f20;
@@ -68,8 +68,8 @@
   h4{
     font-family: 'Klee one', cursive;
     position: absolute;
-    top: 110%;
-    left: 38%;
+    top: 125%;
+    left: 39%;
     font-size: 25px;
   }
 
