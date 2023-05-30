@@ -25,25 +25,25 @@
   
   .brigadeiro{
     position: absolute;
-    left: 63%;
+    left: 65%;
     top: 20%;
   }
 
   .torta{
     position: absolute;
-    left: 63%;
+    left: 65%;
     top: 50%;
   }
 
   .docinhos{
     position: absolute;
-    left: 63%;
+    left: 65%;
     top: 80%;
   }
 
   .branco{
     position: absolute;
-    top: 125%;
+    top: 130%;
     left: 33%;
   }
 
@@ -59,7 +59,7 @@
   h6{
     font-family: 'Kumar one', cursive;
     position: absolute;
-    top: 76%;
+    top: 72%;
   left:20%;
   font-size: 25px;
     color: #4e2f20;
@@ -68,7 +68,7 @@
   h4{
     font-family: 'Klee one', cursive;
     position: absolute;
-    top: 125%;
+    top: 130%;
     left: 39%;
     font-size: 25px;
   }
